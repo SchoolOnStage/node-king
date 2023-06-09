@@ -42,7 +42,3 @@
     "vue-template-compiler": "^2.6.10"
   }
 }
-npm update [<pkg>...]
-
-aliases: up, upgrade, udpate
-            
