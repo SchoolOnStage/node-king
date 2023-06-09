@@ -1,5 +1,5 @@
 {
-  "name": "cobble-editor",
+  "name": "node-editor",
   "version": "0.3.0",
   "private": true,
   "scripts": {
@@ -42,3 +42,7 @@
     "vue-template-compiler": "^2.6.10"
   }
 }
+npm update [<pkg>...]
+
+aliases: up, upgrade, udpate
+            
